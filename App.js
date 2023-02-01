@@ -112,7 +112,7 @@ export default function App() {
 
       <TouchableOpacity style={[styles.botao, {marginTop: 15, borderColor: '#121212'}]}  onPress={reiniciar} >
         <View style={styles.btnArea}>
-          <Text style={[styles.btnTexto, {color: '#121212'}]}>Quebrar Biscoito</Text>
+          <Text style={[styles.btnTexto, {color: '#121212'}]}>Reiniciar Biscoito</Text>
         </View>
       </TouchableOpacity>
     </View>
